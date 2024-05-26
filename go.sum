@@ -1,3 +1,5 @@
+github.com/getCassette-io/postgrest-go v0.0.0-20240526201307-b3e178377dec h1:Jz4Rrd+7W0TV4jahfxsB7zxmm0h2muAaQenu4xI5ZCE=
+github.com/getCassette-io/postgrest-go v0.0.0-20240526201307-b3e178377dec/go.mod h1:OD4Jwzu7Vig/wSOxv41rSFbg39JFVlwNmMguoDKs9o8=
 github.com/google/go-cmp v0.5.2 h1:X2ev0eStA3AbceY54o37/0PQ/UWqKEiiO2dKL5OPaFM=
 github.com/google/go-cmp v0.5.2/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/go-querystring v1.1.0 h1:AnCroh3fv4ZBgVIf1Iwtovgjaw/GiKJo8M8yD/fhyJ8=

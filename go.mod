@@ -3,6 +3,6 @@ module github.com/getCassette-io/supabase-go
 go 1.16
 
 require (
-	github.com/getCassette-io/postgrest-go v0.0.0-20240526201826-333fb639d718
+	github.com/getCassette-io/postgrest-go v0.0.0-20240527081347-a2e982c020e8
 	github.com/google/go-querystring v1.1.0
 )
